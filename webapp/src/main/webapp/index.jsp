@@ -1,6 +1,6 @@
 <h1> Hello, Madhu This my family  </h1>
 <strong> Hellow Madhu</strong>
-<body bgcolor=gold> </body>
+<body bgcolor=green> </body>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <html>
