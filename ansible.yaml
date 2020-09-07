@@ -1,5 +1,5 @@
 ---
- - hosts: servers
+ - hosts: Master
    gather_facts: no
    remote_user: root
    tasks:
