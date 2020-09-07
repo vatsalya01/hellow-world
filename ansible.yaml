@@ -1,0 +1,10 @@
+---
+ - hosts: servers
+   gather_facts: no
+   remote_user: root
+   tasks:
+   - name: To send the artifact to the multiple servers
+     copy: 
+       src: webapp/target/webapp.war
+       dest: /opt/apache-tomcat-7.0.96/webapps
+   
