@@ -1,8 +1,6 @@
-<h1> Hello, Madhu This my family with Hi 
-Sat Day !!!! Sravs Nivi Dishi Amma Nanna My Family  </h1>
+<h1> Hello, Ram & Anji </h1>
 <strong> Hellow Ram</strong>
-<body bgcolor=Red> </body>
-<h2> Deploying on Kubernetes </h2>
+<body bgcolor=green> </body>
 <h3> One last test </h3>
 <html>
 <body bgcolor=red>
