@@ -1,7 +1,7 @@
 <h1> Hello, Madhu This   </h1>
 <strong> Hellow Ram</strong>
 <h1> Hello Praveen and Ashko </h1>
-<body bgcolor=Gold> </body>
+<body bgcolor=Green> </body>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
 <html>
