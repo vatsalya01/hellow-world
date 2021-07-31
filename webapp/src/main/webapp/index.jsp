@@ -1,5 +1,5 @@
 <h1> Hello, Madhu This   </h1>
-<h1> Hello, Uma Praveen Sree Ashok Srikant.j   </h1>
+<h1> Hello, world! This Devops Project   </h1>
 <strong> Hellow Ram</strong>
 <h1> Hello Praveen and Ashko </h1>
 <body bgcolor=Gold> </body>
