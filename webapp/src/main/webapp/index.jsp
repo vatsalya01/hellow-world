@@ -2,7 +2,7 @@
 <h1> Hello, world! This Devops Project   </h1>
 <strong> Hellow Ram</strong>
 <h1> Hello Vathalya and Navya </h1>
-<body bgcolor=red> </body>
+<body bgcolor=yellow> </body>
 <h2> This is Ansible jobs </h2>
 <h3> One last test </h3>
 <html>
